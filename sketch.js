@@ -70,6 +70,7 @@ function draw() {
   spawnObstacles();
   
   drawSprites();
+  //Hello Madam Amrita
 }
 
 function spawnObstacles(){
